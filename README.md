@@ -1,4 +1,4 @@
 node-chat
 =========
 
-Node chat application
+Node chat sample application.
